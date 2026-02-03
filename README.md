@@ -108,9 +108,21 @@ npm run build
 
 ## 📊 Screenshots
 
-| Habit Grid | Squad Battle | Journal |
-|------------|--------------|---------|
-| ![Habit Grid](docs/screenshots/habit-grid.png) | ![Squad](docs/screenshots/squad.png) | ![Journal](docs/screenshots/journal.png) |
+| Home | Habits | Stats |
+|------|--------|-------|
+| ![Home](screenshots/01-home.jpg) | ![Habits](screenshots/02-habits.jpg) | ![Stats](screenshots/03-stats.jpg) |
+
+| Journal | Social | Squad |
+|---------|--------|-------|
+| ![Journal](screenshots/04-journal.jpg) | ![Social](screenshots/05-social.jpg) | ![Squad](screenshots/06-squad.jpg) |
+
+| Boss Battle | Chat | Achievements |
+|-------------|------|--------------|
+| ![Battle](screenshots/07-battle.jpg) | ![Chat](screenshots/08-chat.jpg) | ![Achievements](screenshots/09-achievements.jpg) |
+
+| Settings |
+|----------|
+| ![Settings](screenshots/10-settings.jpg) |
 
 ---
 
