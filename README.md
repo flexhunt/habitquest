@@ -2,8 +2,8 @@
 
 **HabitQuest** is a **gamified habit tracking app** that turns your daily routines into epic quests. Level up, defeat bosses with your squad, earn achievements, and build unbreakable streaks — all while staying productive.
 
-[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/flexhunt/habit-quest)
-[![PWA](https://img.shields.io/badge/PWA-Installable-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://habitquest.app)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/flexhunt/habitquest/releases)
+[![PWA](https://img.shields.io/badge/Web_App-Live-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://trider.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16-000?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -70,29 +70,11 @@
 
 ## 📱 Installation
 
-### Web (PWA)
-Visit [habitquest.app](https://habitquest.app) and install as a Progressive Web App.
+### Web App (PWA)
+Visit **[trider.vercel.app](https://trider.vercel.app)** and install as a Progressive Web App.
 
-### Android
-Download from [Releases](https://github.com/flexhunt/habit-quest/releases) or build from source:
-
-```bash
-# Clone the repository
-git clone https://github.com/flexhunt/habit-quest.git
-cd habit-quest
-
-# Install dependencies
-npm install
-
-# Build the web app
-npm run build
-
-# Sync with Android
-npx cap sync android
-
-# Open in Android Studio
-npx cap open android
-```
+### Android APK
+Download the latest APK from [GitHub Releases](https://github.com/flexhunt/habitquest/releases).
 
 ---
 
@@ -133,9 +115,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🔗 Links
 
-- **Website**: [habitquest.app](https://habitquest.app)
-- **Documentation**: [docs.habitquest.app](https://docs.habitquest.app)
-- **Discord**: [Join our community](https://discord.gg/habitquest)
+- **Web App**: [trider.vercel.app](https://trider.vercel.app)
+- **Android APK**: [Download from Releases](https://github.com/flexhunt/habitquest/releases)
+- **GitHub**: [flexhunt/habitquest](https://github.com/flexhunt/habitquest)
 
 ---
 
