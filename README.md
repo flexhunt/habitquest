@@ -10,6 +10,19 @@
 
 ---
 
+## 🌟 Unique Feature: Instagram Integration
+
+**Track habits directly from Instagram DMs!**
+
+1. Get your unique sync code from the app
+2. Paste it in HabitQuest's Instagram DM (@tlwiin)
+3. Your account is now linked
+4. Reply with habit commands to mark them complete — no need to open the app!
+
+*The only habit tracker that works inside Instagram.*
+
+---
+
 ## ✨ Features
 
 ### 🎮 Gamification Engine
